@@ -2,9 +2,9 @@
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot7?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot7?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/Al://img.shields.io/github/forks/zeeoneofc/Alphabot7?color=red&style=flat-square"></a>
 <a hreffc/Alphabot7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot7?label=Watchers&color=blue&style=flat-square"></a>
-ef="https://github.com/zeeoneofc/Alphabot7"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+tps://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofc/Alphabot7/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
 <a href="
 ----------
@@ -24,7 +24,7 @@ ef="https://github.com/zeeoneofc/Alphabot7"><img title="Open Source" src="https:
 </p>
 
 
-## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+
+
 
